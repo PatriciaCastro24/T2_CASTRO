@@ -1,0 +1,14 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Spring Boot-BlockbusterApplication<blockbuster>",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "mainClass": "com.cibertec.blockbuster.BlockbusterApplication",
+            "projectName": "blockbuster",
+            "args": "",
+            "envFile": "${workspaceFolder}/.env"
+        }
+    ]
+}
